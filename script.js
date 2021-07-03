@@ -1,4 +1,4 @@
-const API_URL = "https://expresstrial-bylakshmi.herokuapp.com//api/posts";
+const API_URL = "https://expresstrial-bylakshmi.herokuapp.com/api/posts";
 
 
 
