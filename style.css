@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+div:not(.wrapper) {
+    margin-top: 5rem;
+}
+
+.form > * {
+    margin-top: 2rem;
+}
+
+input:nth-of-type(4) {
+    margin-bottom: 2rem;
+}
